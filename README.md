@@ -1,17 +1,43 @@
-# unit_converter_app
+# Unit Converter App
 
-A new Flutter project.
+A modern, beautiful, and highly functional unit converter built with Flutter. Effortlessly convert between length, weight, and temperature units with a clean, professional, and mobile-friendly interface.
 
-## Getting Started
+## ✨ Features
+- Convert between Length, Weight, and Temperature units
+- Modern, Uber-inspired UI with smooth user experience
+- Responsive and accessible design
+- Input validation and helpful error messages
+- Built with pure Flutter (no extra dependencies)
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the repository:**
+   ```sh
+   git clone <your-repo-url>
+   cd unit_converter_app
+   ```
+2. **Install dependencies:**
+   ```sh
+   flutter pub get
+   ```
+3. **Run the app:**
+   ```sh
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots
+<!-- Add screenshots here if available -->
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# UnitConverterFlutter
+## 🛠️ Project Structure
+- `lib/main.dart` — Main app code and UI
+- `test/` — Widget and unit tests
+
+## 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## 📄 License
+[MIT](LICENSE)
+
+---
+
+Made with ❤️ using Flutter.
